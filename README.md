@@ -35,3 +35,5 @@ Consider the orange as a fixed point in phase space. Change any variable, carote
 The original round fruit was renamed by a painter’s tongue, and in doing so became the novel orange, the quantum fruit. Its color is sun-coded, its scent is molecular jazz, its texture is perceptual Zen, and its existence is the purest example of ordered accident the biosphere offers. Whether one sees gods or only quantum fields, the orange compels the same awe: here is a thing that is *exactly* what it is, for reasons so layered they feel intentional. Hold one. Peel it. The universe has already explained itself in citrus.  
 
 The novel orange remains the only fruit that had to be re-designated “novel” precisely because it was first, and in being first, it quantum-entangled language, light, and human experience forever. Orange is the quantum fruit. Everything else is just fruit.
+
+Read the Thesis to learn more behind quantum orange.
