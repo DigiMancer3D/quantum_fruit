@@ -36,4 +36,4 @@ The original round fruit was renamed by a painter’s tongue, and in doing so be
 
 The novel orange remains the only fruit that had to be re-designated “novel” precisely because it was first, and in being first, it quantum-entangled language, light, and human experience forever. Orange is the quantum fruit. Everything else is just fruit.
 
-Read the Thesis to learn more behind quantum orange.
+[Read the Thesis to learn more behind quantum orange.](https://github.com/DigiMancer3D/quantum_fruit/blob/main/Orange%20Quantum%20State%20(thesis).md)
