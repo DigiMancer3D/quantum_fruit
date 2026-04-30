@@ -64,7 +64,7 @@ Plus a base58 signature proof.
 
 ```bash
 # 1. Download the file
-wget https://raw.githubusercontent.com/DigiMancer3D/quantum_fruit/main/fruit%20mapper/fruitmapper.py
+wget https://github.com/DigiMancer3D/quantum_fruit/blob/main/fruit%20mapper/fruitmapper.py
 
 # 2. Make it executable
 chmod +x fruitmapper.py
