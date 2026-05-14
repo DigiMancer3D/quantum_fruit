@@ -1,13 +1,13 @@
 # Self-Verifying Coin (SVC) System
 
-A quantum-cryptographic, post-quantum secure coin system built on **SPX-QEC** (Sphinx Quantum Entanglement Compression) with deterministic pattern generation, P2P mesh networking, and multi-role key hierarchies.
+A quantum-cryptographic, post-quantum secure coin system built on **SPX-QEC** (Sphinx Quantum Entanglement Compression) with deterministic pattern generation, P2P mesh networking, and multi-role key hierarchy.
 
 ## 📋 Overview
 
 The SVC system implements a complete digital currency stack featuring:
 
 - **Fruit Bitmapper**: High-entropy seed generation using scent-maths + epoch-based bump mapping
-- **SPX-QEC Core**: Quantum Entantlgment Compression with 13 base patterns and 4 deterministic transformation rules
+- **SPX-QEC Core**: Quantum Entanglement Compression with 13 base patterns and 4 deterministic transformation rules
 - **Multi-Role Keygen**: 9 PQC role keys (fill, spend, last-send, rolling, mix, fuse, cut, multi-sig, vault)
 - **Self-Verifying Coins**: Coins that cryptographically prove validity without external verification
 - **Lightweight Blockchain**: Simple PoW chain with dynamic difficulty adjustment
@@ -47,7 +47,7 @@ SVC/
 ## 🔧 Components
 
 ### 1. **SPX-QEC Core** (`svc-core/`)
-Quantum Entanglment Compression library written in C.
+Quantum Entanglement Compression library written in C.
 
 **Key Features:**
 - 13 smallest binary patterns: `00, 11, 01, 10, 100, 011, 101, 010, 1001, 0110, 10100, 01011, 001101`
@@ -363,7 +363,7 @@ This is an experimental implementation. For issues or improvements:
 ## 📚 References
 
 - **Thesis Basis**: Scent-maths + bump mapping entropy
-- **Quantum**: SPX (SPHINCS+) inspired quantum error correction
+- **Quantum**: SPX (SPHINCS+) inspired Quantum Entanglement Compression
 - **Standards**: NIST min-entropy extraction, SHA3-512
 - **Architecture**: Byzantine-tolerant P2P mesh
 - **Blockchain**: Simple Nakamoto PoW
