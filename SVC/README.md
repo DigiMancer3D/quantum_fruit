@@ -1,6 +1,6 @@
 # Self-Verifying Coin (SVC) System
 
-A quantum-cryptographic, post-quantum secure coin system built on **SPX-QEC** (Sphinx Quantum Entanglement Compression) with deterministic pattern generation, P2P mesh networking, and multi-role key hierarchy.
+A quantum-cryptographic, post-quantum secure coin system built on **SPX-QEC** (SuPosXt Quantum Entanglement Compression) with deterministic pattern generation, P2P mesh networking, and multi-role key hierarchy.
 
 ## 📋 Overview
 
@@ -363,7 +363,7 @@ This is an experimental implementation. For issues or improvements:
 ## 📚 References
 
 - **Thesis Basis**: Scent-maths + bump mapping entropy
-- **Quantum**: SPX (SPHINCS+) inspired Quantum Entanglement Compression
+- **Quantum**: SPX (SuperPositioned Text) Quantum Entanglement Compression to work with SPHINCS+
 - **Standards**: NIST min-entropy extraction, SHA3-512
 - **Architecture**: Byzantine-tolerant P2P mesh
 - **Blockchain**: Simple Nakamoto PoW
@@ -376,6 +376,6 @@ Part of the `quantum_fruit` research project. See root LICENSE for details.
 
 ---
 
-**Status**: ✅ Phase 2 Ready  
+**Status**: ✅ Phase 2 Ready  (WIP)
 **Last Updated**: 2026-05-14  
 **Maintainer**: @DigiMancer3D
